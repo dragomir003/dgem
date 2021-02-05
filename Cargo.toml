@@ -1,0 +1,12 @@
+[package]
+name = "dgem"
+version = "0.1.0"
+authors = ["Dragon987 <dragolekovic@gmail.com>"]
+edition = "2018"
+description = "A lightweight terminal gemini browser."
+license = "MIT"
+license-file = "License.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
